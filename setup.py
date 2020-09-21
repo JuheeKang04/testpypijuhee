@@ -9,13 +9,13 @@ setup(
   author = 'Kang Juhee',
   author_email = 'treeinblu@gmail.com',
   url = 'https://github.com/JuheeKang04/testpypijuhee',
-  download_url = 'https://github.com/JuheeKang04/testpypijuhee/archive/v_01_1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/JuheeKang04/testpypijuhee/archive/v_01_1.tar.gz',
   keywords = ['TEST'],
   install_requires=[
           'kss',
       ],
   classifiers=[
-    'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
+    'Development Status :: 3 - Alpha',
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3.6',
